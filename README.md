@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Jaljala Shrestha Lama
-- 👀 I’m interested in software developent and how it works
-- 🌱 I’m beginner on programming field for now
-- 🌱 I'm currently learning python language
+- 👀 I’m interested in Data
+- 🌱 I'm currently building some cool Projects
 - 📫 You can reach me by emailing me @ jaljalalama56@gmail.com
 
 <!---
