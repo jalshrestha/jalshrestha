@@ -1,5 +1,15 @@
-# 💫 About Me:
-# 👋 Hi, I'm **Jaljala Shrestha Lama**<br><br>🔍 **Data Enthusiast** | 🛠️ Building Intelligent Systems with Code & Data  <br><br>---<br><br>### 🚀 About Me<br>- Passionate about **turning data into insights** and **insights into impact**  <br>- Currently crafting **real-world data projects** — from pipelines to predictions  <br>- Always learning: ML • Python • SQL • Visualization • Cloud  <br><br>---
+# 💫 About Me
+
+👋 **Hi, I'm Jaljala Shrestha Lama**  
+🔍 *Data Enthusiast* | 🛠️ *Building Intelligent Systems with Code & Data*
+
+---
+
+- Passionate about **turning data into insights** and **insights into impact**  
+- Currently crafting **real-world data projects** — from pipelines to predictions  
+- Always learning: **ML • Python • SQL • Visualization • Cloud**
+
+---
 
 
 ## 🌐 Socials:
