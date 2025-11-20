@@ -1,9 +1,7 @@
 # 💫 About Me
 
 👋 **Hi, I'm Jaljala Shrestha Lama**  
-🔍 *AI + Backend + Data Engineer | Building the systems that will create utopia with technology
-
-*
+🔍 *AI + Backend + Data Engineer | Building the systems that will create utopia with technology*
 
 ---
 
