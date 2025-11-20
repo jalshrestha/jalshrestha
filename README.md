@@ -1,13 +1,17 @@
 # 💫 About Me
 
 👋 **Hi, I'm Jaljala Shrestha Lama**  
-🔍 *Data Enthusiast* | 🛠️ *Building Intelligent Systems with Code & Data*
+🔍 *AI + Backend + Data Engineer | Building the systems that will create utopia with technology
+
+*
 
 ---
 
 - Passionate about **turning data into insights** and **insights into impact**  
 - Currently crafting **real-world data projects** — from pipelines to predictions  
-- Always learning: **ML • Python • SQL • Visualization • Cloud**
+- Always learning: **LLMs • Agents • Distributed Systems • AI Infra • Full-Stack ML • Cloud-Native Backend**
+
+
 
 ---
 
